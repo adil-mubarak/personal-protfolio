@@ -174,11 +174,11 @@ h6 {
 
 @media (max-width: 768px) {
   #header.header-top {
-    height: 60px;
+    height: 68px;
   }
 
   #header.header-top h1 {
-    font-size: 26px;
+    font-size: 28px;
   }
 }
 
